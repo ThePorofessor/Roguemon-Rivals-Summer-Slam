@@ -35,7 +35,7 @@ At the start of each round all participants will vote on universal picks that al
 
 <h1 align="center">PIVOTING GUIDELINES</h1>
 
-Pivoting is dictated by what you drafted. Unlike the classic ruleset for Roguemon Rivals, King of the Hill does not require the abandoned balls. **Repeat everyone can scout for their favorites!** Since scouting is allowed, you can ONLY run your favorite pokemon. Undrafted Pokemon can be used up until the first trainer, but cannot be used as a runner. Nemesis Pokemon are are banned outside of the lab. With that in mind, the lab rules are:
+Pivoting is dictated by what you drafted. Unlike the classic ruleset for Roguemon Rivals, King of the Hill does not require the abandoned balls. **Repeat everyone can scout for their favorites!** Since scouting is allowed, you can ONLY run your favorite pokemon. Undrafted Pokemon can be used up until the first trainer, but cannot be used as a runner. Nemesis Pokemon are are banned outside of the lab. Additionally, Shinies do NOT override the favorite rules. If you find a shiny and want to run it, it will not count as a tournament seed. With that in mind, the lab rules are:
 
 ### Lab Priorities:
 1.	You must select a drafted pokemon (Universal or Your Favorite)
@@ -122,26 +122,27 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | Name | How To Watch | Tournament Status |
 |:---:|---|---|
 | <p align="center">AitchKay</p> | <p align="center">[Twitch](https://www.twitch.tv/aitchkay720)</p> | <p align="center">Round 1</p> |
-| <p align="center">Yukisaka</p> | <p align="center">[Twitch](https://www.twitch.tv/)</p> | <p align="center">Round 1</p> |
-| <p align="center">Porofessor</p> | <p align="center">[Twitch](https://www.twitch.tv/theporofessor)</p> | <p align="center">Round 1</p> |
-| <p align="center">Reilnur</p> | <p align="center">[Twitch](https://www.twitch.tv/reilnur)</p> | <p align="center">Round 1</p> |
-| <p align="center">NekoMage</p> | <p align="center">[Twitch](https://www.twitch.tv/nekomage_hs)</p> | <p align="center">Round 1</p> |
-| <p align="center">DaddyoftheCorn</p> | <p align="center">[Twitch](https://www.twitch.tv/daddyofthecorn)</p> | <p align="center">Round 1</p> |
-| <p align="center">QP_Marcel</p> | <p align="center">[Twitch](https://www.twitch.tv/qp_marcel)</p> | <p align="center">Round 1</p> |
-| <p align="center">BonusDay</p> | <p align="center">[Twitch](https://www.twitch.tv/bonusday)</p> | <p align="center">Round 1</p> |
-| <p align="center">Finnifin</p> | <p align="center">[Twitch](https://www.twitch.tv/finnifinn747)</p> | <p align="center">Round 1</p> |
-| <p align="center">ZogaOak</p> | <p align="center">[Twitch](https://www.twitch.tv/zogaoak)</p> | <p align="center">Round 1</p> |
-| <p align="center">Mason</p> | <p align="center">[Twitch](https://www.twitch.tv/mason_smw)</p> | <p align="center">Round 1</p> |
-| <p align="center">Potatergang</p> | <p align="center">[Twitch](https://www.twitch.tv/)</p> | <p align="center">Round 1</p> |
-| <p align="center">UnrealPapa</p> | <p align="center">[Twitch](https://www.twitch.tv/unrealpapa)</p> | <p align="center">Round 1</p> |
+| <p align="center">AmazingSpam</p> | <p align="center">[Twitch](https://www.twitch.tv/amazingspam)</p> | <p align="center">Round 1</p> |
 | <p align="center">Bernas52</p> | <p align="center">[Twitch](https://www.twitch.tv/bernas52)</p> | <p align="center">Round 1</p> |
+| <p align="center">BonusDay</p> | <p align="center">[Twitch](https://www.twitch.tv/bonusday)</p> | <p align="center">Round 1</p> |
+| <p align="center">DaddyoftheCorn</p> | <p align="center">[Twitch](https://www.twitch.tv/daddyofthecorn)</p> | <p align="center">Round 1</p> |
+| <p align="center">Finnifin</p> | <p align="center">[Twitch](https://www.twitch.tv/finnifinn747)</p> | <p align="center">Round 1</p> |
+| <p align="center">Just_Dkamp</p> | <p align="center">[Twitch](https://www.twitch.tv/just_dkamp)</p> | <p align="center">Round 1</p> |
+| <p align="center">Mason</p> | <p align="center">[Twitch](https://www.twitch.tv/mason_smw)</p> | <p align="center">Round 1</p> |
+| <p align="center">NekoMage</p> | <p align="center">[Twitch](https://www.twitch.tv/nekomage_hs)</p> | <p align="center">Round 1</p> |
+| <p align="center">Pixelmaster</p> | <p align="center">[Twitch](https://www.twitch.tv/pixelmaster113)</p> | <p align="center">Round 1</p> |
+| <p align="center">Porofessor</p> | <p align="center">[Twitch](https://www.twitch.tv/theporofessor)</p> | <p align="center">Round 1</p> |
+| <p align="center">Potatergang</p> | <p align="center">[Twitch](https://www.twitch.tv/)</p> | <p align="center">Round 1</p> |
+| <p align="center">QP_Marcel</p> | <p align="center">[Twitch](https://www.twitch.tv/qp_marcel)</p> | <p align="center">Round 1</p> |
+| <p align="center">Reilnur</p> | <p align="center">[Twitch](https://www.twitch.tv/reilnur)</p> | <p align="center">Round 1</p> |
 | <p align="center">Roxee</p> | <p align="center">[Twitch](https://www.twitch.tv/roxee94)</p> | <p align="center">Round 1</p> |
 | <p align="center">Slammer</p> | <p align="center">[Twitch](https://www.twitch.tv/iamslammer)</p> | <p align="center">Round 1</p> |
-| <p align="center">Just_Dkamp</p> | <p align="center">[Twitch](https://www.twitch.tv/just_dkamp)</p> | <p align="center">Round 1</p> |
 | <p align="center">UceyChimchar</p> | <p align="center">[Twitch](https://www.twitch.tv/uceychimchar)</p> | <p align="center">Round 1</p> |
+| <p align="center">UnrealPapa</p> | <p align="center">[Twitch](https://www.twitch.tv/unrealpapa)</p> | <p align="center">Round 1</p> |
+| <p align="center">Yukisaka</p> | <p align="center">[Twitch](https://www.twitch.tv/)</p> | <p align="center">Round 1</p> |
+| <p align="center">ZogaOak</p> | <p align="center">[Twitch](https://www.twitch.tv/zogaoak)</p> | <p align="center">Round 1</p> |
 | <p align="center">ZRBPlays</p> | <p align="center">[Twitch](https://www.twitch.tv/zrbplaystv)</p> | <p align="center">Round 1</p> |
-| <p align="center">Pixelmaster</p> | <p align="center">[Twitch](https://www.twitch.tv/pixelmaster113)</p> | <p align="center">Round 1</p> |
-| <p align="center">AmazingSpam</p> | <p align="center">[Twitch](https://www.twitch.tv/amazingspam)</p> | <p align="center">Round 1</p> |
+
 
 ---
 
@@ -149,7 +150,27 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 | Rank | Player | Personal Best (Tiebreakers) | Available Seeds?
 |:---:|---|---|---|
-
+| 1 | <p align="center">AitchKay</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">AmazingSpam</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">Bernas52</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">BonusDay</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">DaddyoftheCorn</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">Finnifin</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">Just_Dkamp</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">Mason</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">NekoMage</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">Pixelmaster</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">Porofessor</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">Potatergang</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">QP_Marcel</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">Reilnur</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">Roxee</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">Slammer</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">UceyChimchar</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">UnrealPapa</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">Yukisaka</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">ZogaOak</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">ZRBPlays</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 
 
 ---
@@ -158,7 +179,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 <h1 align="center">DRAFT HISTORY</h1>
 
 <details>
-<summary><strong>Round 1 Drafts ()</strong></summary>
+<summary><strong>Round 1 Drafts (Electric)</strong></summary>
   
 | Player 1 | Favorite Picks | Universal Picks |
 |:---:|---|---|
@@ -182,6 +203,8 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | Player 1 | Favorite Picks | Universal Picks |
 |:---:|---|---|
 
+
+</details>
 
 <h1 align="center">RESOURCES</h1>
 
@@ -214,7 +237,7 @@ Thats a seed reset, but you will be refunded the seed. Please note this doesn't 
 
 <details>
 <summary><strong> If I get a non-favorite shiny, can I run that instead of a favorite? </strong></summary>
-Sure! The original ruleset of Roguemon does have a Shiny clause which we will permit. IIRC the original ruleset for Roguemon allows you to level it to 8 so the shiny has a chance.
+With the implementation of shiny charms, shinies are much more consistent. Therefore, non-favorites shinies are not allowed.
  </details>
 
 <details>
