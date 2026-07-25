@@ -181,16 +181,36 @@ A penalty modifier increases your overall seed count if a specific condition is 
 <details>
 <summary><strong>Round 1 Drafts (Electric)</strong></summary>
   
-| Player 1 | Favorite Picks | Universal Picks |
+| Player | Favorite Picks | Universal Picks |
 |:---:|---|---|
-
+| <p align="center">AitchKay</p> | | |
+| <p align="center">AmazingSpam</p> | | |
+| <p align="center">Bernas52</p> | | |
+| <p align="center">BonusDay</p> | | |
+| <p align="center">DaddyoftheCorn</p> | | |
+| <p align="center">Finnifin</p> | | |
+| <p align="center">Just_Dkamp</p> | | |
+| <p align="center">Mason</p> | | |
+| <p align="center">NekoMage</p> | | |
+| <p align="center">Pixelmaster</p> | | |
+| <p align="center">Porofessor</p> | | |
+| <p align="center">Potatergang</p> | | |
+| <p align="center">QP_Marcel</p> | | |
+| <p align="center">Reilnur</p> | | |
+| <p align="center">Roxee</p> | | |
+| <p align="center">Slammer</p> | | |
+| <p align="center">UceyChimchar</p> | | |
+| <p align="center">UnrealPapa</p> | | |
+| <p align="center">Yukisaka</p> | | |
+| <p align="center">ZogaOak</p> | | |
+| <p align="center">ZRBPlays</p> | | |
 
 </details>
 
 <details>
 <summary><strong>Round 2 Drafts (Ground)</strong></summary>
   
-| Player 1 | Favorite Picks | Universal Picks |
+| Player | Favorite Picks | Universal Picks |
 |:---:|---|---|
 
 
@@ -200,7 +220,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 <details>
 <summary><strong>Round 3 Drafts (Fighting)</strong></summary>
   
-| Player 1 | Favorite Picks | Universal Picks |
+| Player | Favorite Picks | Universal Picks |
 |:---:|---|---|
 
 
