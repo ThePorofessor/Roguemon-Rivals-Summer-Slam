@@ -14,7 +14,7 @@ Welcome to Roguemon Rivals 2026 Summer Slam Community Tournament! This open comm
 
 <h1 align="center">HOW TO JOIN</h1>
 
-Join our [Community Discord](https://discord.gg/uutypZMtTk) and emote on the tournament announcement or send me a DM on Discord (ThePorofessor) and I will get you the tournament role! Anyone can join until Round 1 ends (August 12th at 11:59 PM). Once round 1 ends the bottom of the leaderboard will be cut and admission will be closed.
+Join our [Community Discord](https://discord.gg/uutypZMtTk) and emote on the tournament announcement or send me a DM on Discord (ThePorofessor) and I will get you the tournament role! Round 1 officially starts on August 6th, but anyone can join until Round 1 ends (August 12th at 11:59 PM). Once round 1 ends the bottom of the leaderboard will be cut and admission will be closed.
 
 ---
 <h1 align="center">ROUND OVERVIEW</h1>
@@ -126,7 +126,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | <p align="center">Bernas52</p> | <p align="center">[Twitch](https://www.twitch.tv/bernas52)</p> | <p align="center">Round 1</p> |
 | <p align="center">BonusDay</p> | <p align="center">[Twitch](https://www.twitch.tv/bonusday)</p> | <p align="center">Round 1</p> |
 | <p align="center">DaddyoftheCorn</p> | <p align="center">[Twitch](https://www.twitch.tv/daddyofthecorn)</p> | <p align="center">Round 1</p> |
-| <p align="center">Finnifin</p> | <p align="center">[Twitch](https://www.twitch.tv/finnifinn747)</p> | <p align="center">Round 1</p> |
+| <p align="center">Finnifinn747</p> | <p align="center">[Twitch](https://www.twitch.tv/finnifinn747)</p> | <p align="center">Round 1</p> |
 | <p align="center">Just_Dkamp</p> | <p align="center">[Twitch](https://www.twitch.tv/just_dkamp)</p> | <p align="center">Round 1</p> |
 | <p align="center">Mason</p> | <p align="center">[Twitch](https://www.twitch.tv/mason_smw)</p> | <p align="center">Round 1</p> |
 | <p align="center">NekoMage</p> | <p align="center">[Twitch](https://www.twitch.tv/nekomage_hs)</p> | <p align="center">Round 1</p> |
@@ -155,7 +155,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 1 | <p align="center">Bernas52</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 1 | <p align="center">BonusDay</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 1 | <p align="center">DaddyoftheCorn</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
-| 1 | <p align="center">Finnifin</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">Finnifinn747</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 1 | <p align="center">Just_Dkamp</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 1 | <p align="center">Mason</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 1 | <p align="center">NekoMage</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
