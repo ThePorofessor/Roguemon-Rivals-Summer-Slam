@@ -8,7 +8,7 @@ Welcome to Roguemon Rivals 2026 Summer Slam Community Tournament! This open comm
 
 **If this is your first time playing Roguemon Rivals, more information on how to draft, how to pivot, and how to score your runs can be found on the original rules page ([OG Rules Page](https://github.com/ThePorofessor/Roguemon-Rivals/tree/main)).**
 
-![Bug Notice](Resources/Disclaimer.PNG)
+![Bug Notice](Resources/Disclaimer1.PNG)
 
 ---
 
@@ -31,7 +31,7 @@ At the start of each round all participants will vote on universal picks that al
 
 ### <p align="center">Drafting Phase Reference</p>
 
-![Drafting Order Reference](Resources/DraftingOrder.PNG)
+![Drafting Order Reference](Resources/DraftingOrder1.PNG)
 
 <h1 align="center">PIVOTING GUIDELINES</h1>
 
