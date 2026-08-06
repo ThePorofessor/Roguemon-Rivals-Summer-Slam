@@ -126,7 +126,9 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | <p align="center">Bernas52</p> | <p align="center">[Twitch](https://www.twitch.tv/bernas52)</p> | <p align="center">Round 1</p> |
 | <p align="center">BonusDay</p> | <p align="center">[Twitch](https://www.twitch.tv/bonusday)</p> | <p align="center">Round 1</p> |
 | <p align="center">DaddyoftheCorn</p> | <p align="center">[Twitch](https://www.twitch.tv/daddyofthecorn)</p> | <p align="center">Round 1</p> |
+| <p align="center">DGCacklez</p> | <p align="center">[Twitch](https://www.twitch.tv/)</p> | <p align="center">Round 1</p> |
 | <p align="center">Finnifinn747</p> | <p align="center">[Twitch](https://www.twitch.tv/finnifinn747)</p> | <p align="center">Round 1</p> |
+| <p align="center">IdleCrisp</p> | <p align="center">[Twitch](https://www.twitch.tv/idlecrisp)</p> | <p align="center">Round 1</p> |
 | <p align="center">Just_Dkamp</p> | <p align="center">[Twitch](https://www.twitch.tv/just_dkamp)</p> | <p align="center">Round 1</p> |
 | <p align="center">Mason</p> | <p align="center">[Twitch](https://www.twitch.tv/mason_smw)</p> | <p align="center">Round 1</p> |
 | <p align="center">NekoMage</p> | <p align="center">[Twitch](https://www.twitch.tv/nekomage_hs)</p> | <p align="center">Round 1</p> |
@@ -135,6 +137,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | <p align="center">Potatergang</p> | <p align="center">[Twitch](https://www.twitch.tv/)</p> | <p align="center">Round 1</p> |
 | <p align="center">QP_Marcel</p> | <p align="center">[Twitch](https://www.twitch.tv/qp_marcel)</p> | <p align="center">Round 1</p> |
 | <p align="center">Reilnur</p> | <p align="center">[Twitch](https://www.twitch.tv/reilnur)</p> | <p align="center">Round 1</p> |
+| <p align="center">roflmaogamers1</p> | <p align="center">[Twitch](https://www.twitch.tv/roflmaogamers1)</p> | <p align="center">Round 1</p> |
 | <p align="center">Roxee</p> | <p align="center">[Twitch](https://www.twitch.tv/roxee94)</p> | <p align="center">Round 1</p> |
 | <p align="center">Slammer</p> | <p align="center">[Twitch](https://www.twitch.tv/iamslammer)</p> | <p align="center">Round 1</p> |
 | <p align="center">UceyChimchar</p> | <p align="center">[Twitch](https://www.twitch.tv/uceychimchar)</p> | <p align="center">Round 1</p> |
@@ -155,7 +158,9 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 1 | <p align="center">Bernas52</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 1 | <p align="center">BonusDay</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 1 | <p align="center">DaddyoftheCorn</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">DGCacklez</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 1 | <p align="center">Finnifinn747</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">IdleCrisp</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 1 | <p align="center">Just_Dkamp</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 1 | <p align="center">Mason</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 1 | <p align="center">NekoMage</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
@@ -164,6 +169,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 1 | <p align="center">Potatergang</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 1 | <p align="center">QP_Marcel</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 1 | <p align="center">Reilnur</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 1 | <p align="center">roflmaogamers1</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 1 | <p align="center">Roxee</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 1 | <p align="center">Slammer</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 1 | <p align="center">UceyChimchar</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
