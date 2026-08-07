@@ -153,9 +153,9 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 | Rank | Player | Personal Best (Tiebreakers) | Available Seeds?
 |:---:|---|---|---|
-| 1 | <p align="center">ZogaOak</p> | <p align="center"> Koga (1/6 Pokemon) </p> | <p align="center"> 47 Seeds </p> |
-| 2 | <p align="center">QP_Marcel</p> | <p align="center"> Route 8 (5/12 Trainers) </p> | <p align="center"> 46 Seeds </p> |
-| 3 | <p align="center">UceyChimchar</p> | <p align="center"> Route 8 (Ongoing) </p> | <p align="center"> 5 Seeds </p> |
+| 1 | <p align="center">UceyChimchar</p> | <p align="center"> Won in 55 seeds (refunded 10 from Pikachu bug) </p> | <p align="center"> 5 Seeds </p> |
+| 2 | <p align="center">ZogaOak</p> | <p align="center"> Koga (1/6 Pokemon) </p> | <p align="center"> 47 Seeds </p> |
+| 3 | <p align="center">QP_Marcel</p> | <p align="center"> Route 8 (5/12 Trainers) </p> | <p align="center"> 46 Seeds </p> |
 | 4 | <p align="center">Yukisaka</p> | <p align="center"> Lt Surge (2/4 Trainers) </p> | <p align="center"> 45 Seeds </p> |
 | 5 | <p align="center">Reilnur</p> | <p align="center"> Misty (0/6 Pokemon) </p> | <p align="center"> 39 Seeds </p> |
 | 6 | <p align="center">Bernas52</p> | <p align="center"> Route 24 & 25 </p> | <p align="center"> 37 Seeds </p> |
