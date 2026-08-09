@@ -165,10 +165,10 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 10 | <p align="center">Porofessor</p> | <p align="center"> Route 3 (7/8 Trainers) </p> | <p align="center"> 29 Seeds </p> |
 | 11 | <p align="center">Finnifinn747</p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> 16 Seeds </p> |
 | 12 | <p align="center">ZRBPlays</p> | <p align="center"> Brock (5/6) </p> | <p align="center"> 22 Seeds </p> |
-| 13 | <p align="center">UnrealPapa</p> | <p align="center"> Brock (3/6) </p> | <p align="center"> 39 Seeds </p> |
 | | | | |
 | <p align="center">![Round](Resources/round.PNG) </p> | <p align="center">![One](Resources/one.PNG) </p>| <p align="center">![Elimination](Resources/elimination.PNG) </p> |<p align="center">![Threshold](Resources/threshold.PNG) </p>
 | | | | |
+| 13 | <p align="center">UnrealPapa</p> | <p align="center"> Brock (3/6) </p> | <p align="center"> 39 Seeds </p> |
 | 14 | <p align="center">Slammer</p> | <p align="center"> Brock (3/6 Pokemon) </p> | <p align="center"> 29 Seeds </p> |
 | 15 | <p align="center">Roxee</p> | <p align="center"> Brock (2/6 Pokemon) </p> | <p align="center"> 27 Seeds </p> |
 | 16 | <p align="center">roflmaogamers1</p> | <p align="center"> Brock (1/6 Pokemon) </p> | <p align="center"> 39 Seeds </p> |
