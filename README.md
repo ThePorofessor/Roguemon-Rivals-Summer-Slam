@@ -161,7 +161,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 6 | <p align="center">BonusDay</p> | <p align="center"> Rock Tunnel (12/19 Trainers) </p> | <p align="center"> 26 Seeds </p> |
 | 7 | <p align="center">Just_Dkamp</p> | <p align="center"> Lt. Surge (5/6 Pokemon) </p> | <p align="center"> 45 Seeds </p> |
 | 8 | <p align="center">AitchKay</p> | <p align="center"> Lt Surge (3/4 Trainers) </p> | <p align="center"> 34 Seeds </p> |
-| 9 | <p align="center">Yukisaka</p> | <p align="center"> Lt Surge (2/4 Trainers) </p> | <p align="center"> 36 Seeds </p> |
+| 9 | <p align="center">Yukisaka</p> | <p align="center"> Lt Surge (2/4 Trainers) </p> | <p align="center"> 0 Seeds </p> |
 | 10 | <p align="center">Reilnur</p> | <p align="center"> Misty (0/6 Pokemon) </p> | <p align="center"> 39 Seeds </p> |
 | 11 | <p align="center">Bernas52</p> | <p align="center"> Route 24 & 25 (10/16 Trainers) </p> | <p align="center"> 0 Seeds </p> |
 | 12 | <p align="center">Porofessor</p> | <p align="center"> Rival 3 (3/4 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
@@ -175,12 +175,11 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 17 | <p align="center">ZRBPlays</p> | <p align="center"> Brock (5/6) </p> | <p align="center"> 0 Seeds </p> |
 | 18| <p align="center">Slammer</p> | <p align="center"> Brock (3/6 Pokemon) </p> | <p align="center"> 29 Seeds </p> |
 | 19 | <p align="center">Roxee</p> | <p align="center"> Brock (2/6 Pokemon) </p> | <p align="center"> 27 Seeds </p> |
+| 19 | <p align="center">Pixelmaster</p> | <p align="center"> Brock (2/6 Pokemon) </p> | <p align="center"> 24 Seeds </p> |
 | 20 | <p align="center">DGCacklez</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 20 | <p align="center">IdleCrisp</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
-| 20 | <p align="center">NekoMage</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
-| 20 | <p align="center">Pixelmaster</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 20 | <p align="center">Potatergang</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
-
+| 20 | <p align="center">NekoMage</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 
 
 ---
