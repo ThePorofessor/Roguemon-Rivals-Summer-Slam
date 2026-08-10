@@ -19,9 +19,9 @@ Join our [Community Discord](https://discord.gg/uutypZMtTk) and emote on the tou
 ---
 <h1 align="center">ROUND OVERVIEW</h1>
 
-Each week players will run up to 50 seeds (you are not required to run them all) of a single predetermined type using their [drafted favorite pokemon and universal picks](#DRAFTING-PHASE). At the end of each week, players will be scored based on their furthest run (known as a personal best or PB) and the lower 50% of players will be eliminated from the competition. The top 50% of players will continue onto the next round where a new type and drafting phase will be introduced.For odd player counts, the cut mark will be round up to enable another player to advance.
+Each week players will run up to 50 seeds (you are not required to run them all) of a single predetermined type using their [drafted favorite pokemon and universal picks](#DRAFTING-PHASE). At the end of each week, players will be scored based on their furthest run (known as a personal best or PB) and the lower 50% of players will be eliminated from the competition. The top 50% of players will continue onto the next round where a new type and drafting phase will be introduced. For odd player counts, the cut mark will be round up to enable another player to advance.
 
-At the start of each round, the player scores are reset to ensure an even and competitive battle for the top spots. Eventhough the scores are reset, there is significant incentives to reaching the top spots through the [Champion Boon](#CHAMPION-BOONS) system.
+At the start of each round, the player scores are reset to ensure an even and competitive battle for the top spots. Even though the scores are reset, there is significant incentives to reaching the top spots through the [Champion Boon](#CHAMPION-BOONS) system.
 
 ---
 
@@ -239,7 +239,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 [Draft Tracker](https://docs.google.com/spreadsheets/d/1w-vIBTVtaFTtdZ5n6jUGxO-SaW-L_5P-QvtL8cfddMo/edit?gid=1594516166#gid=1594516166)
 
-[Pivot Data and Rankings](https://docs.google.com/spreadsheets/d/1zq-M--9Jb4GTpdZMbvmEHwkKGRNkcs_fxrWiKGcLMkY/edit?usp=sharing)
+[Pivot Data](https://docs.google.com/spreadsheets/d/1zq-M--9Jb4GTpdZMbvmEHwkKGRNkcs_fxrWiKGcLMkY/edit?usp=sharing)
 
 [Pokemon Sprites (Sugimori and Global Artwork)](https://drive.google.com/drive/folders/1QnI2yFlTVyjq3geyzwmnrr3_cxNlNjzI?usp=sharing)
 
