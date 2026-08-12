@@ -1,6 +1,6 @@
 # Roguemon Rivals Summer Slam
 
-### [ROUND OVERVIEW](#ROUND-OVERVIEW) | [DRAFTING](#DRAFTING-PHASE) | [PIVOTING](#PIVOTING-GUIDELINES) | [BOONS](#CHAMPION-BOONS) | [TIEBREAKERS](#TIEBREAKERS) | [PENALTIES](#PENALTY-MODIFIERS) | [PARTICIPANTS](#PARTICIPANTS) | [STANDINGS](#STANDINGS) | [DRAFT HISTORY](#DRAFT-HISTORY) | [RESOURCES](#RESOURCES) | [FAQ](#FREQUENTLY-ASKED-QUESTIONS) |
+### [ROUND OVERVIEW](#ROUND-OVERVIEW) | [DRAFTING](#DRAFTING-PHASE) | [PIVOTING](#PIVOTING-GUIDELINES) | [BOONS](#CHAMPION-BOONS) | [TIEBREAKERS](#TIEBREAKERS) | [PENALTIES](#PENALTY-MODIFIERS) | [PARTICIPANTS](#PARTICIPANTS) | [STANDINGS](#STANDINGS) | [RESOURCES](#RESOURCES) | [FAQ](#FREQUENTLY-ASKED-QUESTIONS) |
 
 ---
 
@@ -155,26 +155,26 @@ A penalty modifier increases your overall seed count if a specific condition is 
 |:---:|---|---|---|
 | 1 | <p align="center">Mason</p> | <p align="center"> Won in 3 seeds </p> | <p align="center"> 47 Seeds </p> |
 | 2 | <p align="center">UceyChimchar</p> | <p align="center"> Won in 55 seeds (refunded 10 from Pikachu bug) </p> | <p align="center"> 5 Seeds </p> |
-| 3 | <p align="center">QP_Marcel</p> | <p align="center"> Lance (2/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
-| 4 | <p align="center">UnrealPapa</p> | <p align="center"> Victory Road (11/12 Trainers) </p> | <p align="center"> 20 Seeds </p> |
-| 5 | <p align="center">ZogaOak</p> | <p align="center"> Victory Road (5/12 Trainers) </p> | <p align="center"> 4 Seeds </p> |
+| 3 | <p align="center">ZogaOak</p> | <p align="center"> Champ (3/6 Pokemon) </p> | <p align="center"> 4 Seeds </p> |
+| 4 | <p align="center">QP_Marcel</p> | <p align="center"> Lance (2/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
+| 5 | <p align="center">UnrealPapa</p> | <p align="center"> Victory Road (11/12 Trainers) </p> | <p align="center"> 20 Seeds </p> |
 | 6 | <p align="center">BonusDay</p> | <p align="center"> Rock Tunnel (12/19 Trainers) </p> | <p align="center"> 26 Seeds </p> |
-| 7 | <p align="center">AitchKay</p> | <p align="center"> Route 9 & 10 (2/10 Trainers) </p> | <p align="center"> 0 Seeds </p> |
-| 8 | <p align="center">Just_Dkamp</p> | <p align="center"> Lt. Surge (5/6 Pokemon) </p> | <p align="center"> 30 Seeds </p> |
-| 9 | <p align="center">Yukisaka</p> | <p align="center"> Lt Surge (2/4 Trainers) </p> | <p align="center"> 0 Seeds </p> |
-| 10 | <p align="center">Reilnur</p> | <p align="center"> Misty (0/6 Pokemon) </p> | <p align="center"> 10 Seeds </p> |
+| 7 | <p align="center">AmazingSpam</p> | <p align="center"> Route 9 & 10 (Ongoing) </p> | <p align="center"> 37 Seeds </p> |
+| 8 | <p align="center">AitchKay</p> | <p align="center"> Route 9 & 10 (2/10 Trainers) </p> | <p align="center"> 0 Seeds </p> |
+| 9 | <p align="center">Just_Dkamp</p> | <p align="center"> Lt. Surge (5/6 Pokemon) </p> | <p align="center"> 30 Seeds </p> |
+| 10 | <p align="center">Yukisaka</p> | <p align="center"> Lt Surge (2/4 Trainers) </p> | <p align="center"> 0 Seeds </p> |
+| 11 | <p align="center">Reilnur</p> | <p align="center"> Misty (0/6 Pokemon) </p> | <p align="center"> 10 Seeds </p> |
 | 11 | <p align="center">Bernas52</p> | <p align="center"> Route 24 & 25 (10/16 Trainers) </p> | <p align="center"> 0 Seeds </p> |
-| 12 | <p align="center">Porofessor</p> | <p align="center"> Rival 3 (3/4 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
 | | | | |
 | <p align="center">![Round](Resources/round.PNG) </p> | <p align="center">![One](Resources/one.PNG) </p>| <p align="center">![Elimination](Resources/elimination.PNG) </p> |<p align="center">![Threshold](Resources/threshold.PNG) </p>
 | | | | |
-| 13 | <p align="center">DaddyoftheCorn</p> | <p align="center"> Rival 3 (0/4) </p> | <p align="center"> 0 Seeds </p> |
-| 14 | <p align="center">AmazingSpam</p> | <p align="center"> Route 3 (4/8 Trainers) </p> | <p align="center"> 31 Seeds </p> |
+| 13 | <p align="center">Porofessor</p> | <p align="center"> Rival 3 (3/4 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
+| 14 | <p align="center">DaddyoftheCorn</p> | <p align="center"> Rival 3 (0/4) </p> | <p align="center"> 0 Seeds </p> |
+| 19 | <p align="center"> Slammer</p> | <p align="center"> Route 3 (5/8 Trainers) </p> | <p align="center"> 0 Seeds </p> |
 | 15 | <p align="center">Roxee</p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> 27 Seeds </p> |
 | 15 | <p align="center">Finnifinn747</p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
 | 15 | <p align="center">roflmaogamers1</p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
 | 15 | <p align="center">ZRBPlays</p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
-| 19| <p align="center">Slammer</p> | <p align="center"> Brock (3/6 Pokemon) </p> | <p align="center"> 29 Seeds </p> |
 | 20 | <p align="center">Pixelmaster</p> | <p align="center"> Brock (2/6 Pokemon) </p> | <p align="center"> 24 Seeds </p> |
 | 21 | <p align="center">DGCacklez</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 21 | <p align="center">IdleCrisp</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
@@ -183,57 +183,6 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 
 ---
-
-
-<h1 align="center">DRAFT HISTORY</h1>
-
-<details>
-<summary><strong>Round 1 Drafts (Electric)</strong></summary>
-  
-| Player | Favorite Picks | Universal Picks |
-|:---:|---|---|
-| <p align="center">AitchKay</p> | | |
-| <p align="center">AmazingSpam</p> | | |
-| <p align="center">Bernas52</p> | | |
-| <p align="center">BonusDay</p> | | |
-| <p align="center">DaddyoftheCorn</p> | | |
-| <p align="center">Finnifin</p> | | |
-| <p align="center">Just_Dkamp</p> | | |
-| <p align="center">Mason</p> | | |
-| <p align="center">NekoMage</p> | | |
-| <p align="center">Pixelmaster</p> | | |
-| <p align="center">Porofessor</p> | | |
-| <p align="center">Potatergang</p> | | |
-| <p align="center">QP_Marcel</p> | | |
-| <p align="center">Reilnur</p> | | |
-| <p align="center">Roxee</p> | | |
-| <p align="center">Slammer</p> | | |
-| <p align="center">UceyChimchar</p> | | |
-| <p align="center">UnrealPapa</p> | | |
-| <p align="center">Yukisaka</p> | | |
-| <p align="center">ZogaOak</p> | | |
-| <p align="center">ZRBPlays</p> | | |
-
-</details>
-
-<details>
-<summary><strong>Round 2 Drafts (Ground)</strong></summary>
-  
-| Player | Favorite Picks | Universal Picks |
-|:---:|---|---|
-
-
-</details>
-
-
-<details>
-<summary><strong>Round 3 Drafts (Fighting)</strong></summary>
-  
-| Player | Favorite Picks | Universal Picks |
-|:---:|---|---|
-
-
-</details>
 
 <h1 align="center">RESOURCES</h1>
 
