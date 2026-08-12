@@ -163,7 +163,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 8 | <p align="center">AitchKay</p> | <p align="center"> Route 9 & 10 (2/10 Trainers) </p> | <p align="center"> 0 Seeds </p> |
 | 9 | <p align="center">Just_Dkamp</p> | <p align="center"> Lt. Surge (5/6 Pokemon) </p> | <p align="center"> 30 Seeds </p> |
 | 10 | <p align="center">Yukisaka</p> | <p align="center"> Lt Surge (2/4 Trainers) </p> | <p align="center"> 0 Seeds </p> |
-| 11 | <p align="center">Reilnur</p> | <p align="center"> Misty (0/6 Pokemon) </p> | <p align="center"> 10 Seeds </p> |
+| 11 | <p align="center">Reilnur</p> | <p align="center"> Misty (0/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
 | 12 | <p align="center">Bernas52</p> | <p align="center"> Route 24 & 25 (10/16 Trainers) </p> | <p align="center"> 0 Seeds </p> |
 | | | | |
 | <p align="center">![Round](Resources/round.PNG) </p> | <p align="center">![One](Resources/one.PNG) </p>| <p align="center">![Elimination](Resources/elimination.PNG) </p> |<p align="center">![Threshold](Resources/threshold.PNG) </p>
@@ -171,7 +171,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 13 | <p align="center">Porofessor</p> | <p align="center"> Rival 3 (3/4 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
 | 14 | <p align="center">DaddyoftheCorn</p> | <p align="center"> Rival 3 (0/4) </p> | <p align="center"> 0 Seeds </p> |
 | 15 | <p align="center"> Slammer</p> | <p align="center"> Route 3 (5/8 Trainers) </p> | <p align="center"> 0 Seeds </p> |
-| 16 | <p align="center">Roxee</p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> 27 Seeds </p> |
+| 16 | <p align="center">Roxee</p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
 | 16 | <p align="center">Finnifinn747</p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
 | 16 | <p align="center">roflmaogamers1</p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
 | 16 | <p align="center">ZRBPlays</p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
