@@ -134,7 +134,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | <p align="center">NekoMage</p> | <p align="center">[Twitch](https://www.twitch.tv/nekomage_hs)</p> | <p align="center">Eliminated - Round 1</p> |
 | <p align="center">Pixelmaster</p> | <p align="center">[Twitch](https://www.twitch.tv/pixelmaster113)</p> | <p align="center">Eliminated - Round 1</p> |
 | <p align="center">Porofessor</p> | <p align="center">[Twitch](https://www.twitch.tv/theporofessor)</p> | <p align="center">Eliminated - Round 1</p> |
-| <p align="center">Potatergang</p> | <p align="center">[Twitch](https://www.twitch.tv/)</p> | <p align="center">Eliminated - Round 1</p> |
+| <p align="center">Potatergang</p> | <p align="center">[Twitch](https://www.twitch.tv/im_a_potater)</p> | <p align="center">Eliminated - Round 1</p> |
 | <p align="center">QP_Marcel</p> | <p align="center">[Twitch](https://www.twitch.tv/qp_marcel)</p> | <p align="center">Round 2</p> |
 | <p align="center">Reilnur</p> | <p align="center">[Twitch](https://www.twitch.tv/reilnur)</p> | <p align="center">Round 2</p> |
 | <p align="center">roflmaogamers1</p> | <p align="center">[Twitch](https://www.twitch.tv/roflmaogamers1)</p> | <p align="center">Eliminated - Round 1</p> |
@@ -142,7 +142,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | <p align="center">Slammer</p> | <p align="center">[Twitch](https://www.twitch.tv/iamslammer)</p> | <p align="center">Eliminated - Round 1</p> |
 | <p align="center">UceyChimchar</p> | <p align="center">[Twitch](https://www.twitch.tv/uceychimchar)</p> | <p align="center">Round 2</p> |
 | <p align="center">UnrealPapa</p> | <p align="center">[Twitch](https://www.twitch.tv/unrealpapa)</p> | <p align="center">Round 2</p> |
-| <p align="center">Yukisaka</p> | <p align="center">[Twitch](https://www.twitch.tv/)</p> | <p align="center">Round 2</p> |
+| <p align="center">Yukisaka</p> | <p align="center">[Twitch](https://www.twitch.tv/yukisaka0)</p> | <p align="center">Round 2</p> |
 | <p align="center">ZogaOak</p> | <p align="center">[Twitch](https://www.twitch.tv/zogaoak)</p> | <p align="center">Round 2</p> |
 | <p align="center">ZRBPlays</p> | <p align="center">[Twitch](https://www.twitch.tv/zrbplaystv)</p> | <p align="center">Eliminated - Round 1</p> |
 
