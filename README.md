@@ -121,30 +121,30 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 | Name | How To Watch | Tournament Status |
 |:---:|---|---|
-| <p align="center">AitchKay</p> | <p align="center">[Twitch](https://www.twitch.tv/aitchkay720)</p> | <p align="center">Round 1</p> |
-| <p align="center">AmazingSpam</p> | <p align="center">[Twitch](https://www.twitch.tv/amazingspam)</p> | <p align="center">Round 1</p> |
-| <p align="center">Bernas52</p> | <p align="center">[Twitch](https://www.twitch.tv/bernas52)</p> | <p align="center">Round 1</p> |
-| <p align="center">BonusDay</p> | <p align="center">[Twitch](https://www.twitch.tv/bonusday)</p> | <p align="center">Round 1</p> |
-| <p align="center">DaddyoftheCorn</p> | <p align="center">[Twitch](https://www.twitch.tv/daddyofthecorn)</p> | <p align="center">Round 1</p> |
-| <p align="center">DGCacklez</p> | <p align="center">[Twitch](https://www.twitch.tv/)</p> | <p align="center">Round 1</p> |
-| <p align="center">Finnifinn747</p> | <p align="center">[Twitch](https://www.twitch.tv/finnifinn747)</p> | <p align="center">Round 1</p> |
-| <p align="center">IdleCrisp</p> | <p align="center">[Twitch](https://www.twitch.tv/idlecrisp)</p> | <p align="center">Round 1</p> |
-| <p align="center">Just_Dkamp</p> | <p align="center">[Twitch](https://www.twitch.tv/just_dkamp)</p> | <p align="center">Round 1</p> |
-| <p align="center">Mason</p> | <p align="center">[Twitch](https://www.twitch.tv/mason_smw)</p> | <p align="center">Round 1</p> |
-| <p align="center">NekoMage</p> | <p align="center">[Twitch](https://www.twitch.tv/nekomage_hs)</p> | <p align="center">Round 1</p> |
-| <p align="center">Pixelmaster</p> | <p align="center">[Twitch](https://www.twitch.tv/pixelmaster113)</p> | <p align="center">Round 1</p> |
-| <p align="center">Porofessor</p> | <p align="center">[Twitch](https://www.twitch.tv/theporofessor)</p> | <p align="center">Round 1</p> |
-| <p align="center">Potatergang</p> | <p align="center">[Twitch](https://www.twitch.tv/)</p> | <p align="center">Round 1</p> |
-| <p align="center">QP_Marcel</p> | <p align="center">[Twitch](https://www.twitch.tv/qp_marcel)</p> | <p align="center">Round 1</p> |
-| <p align="center">Reilnur</p> | <p align="center">[Twitch](https://www.twitch.tv/reilnur)</p> | <p align="center">Round 1</p> |
-| <p align="center">roflmaogamers1</p> | <p align="center">[Twitch](https://www.twitch.tv/roflmaogamers1)</p> | <p align="center">Round 1</p> |
-| <p align="center">Roxee</p> | <p align="center">[Twitch](https://www.twitch.tv/roxee94)</p> | <p align="center">Round 1</p> |
-| <p align="center">Slammer</p> | <p align="center">[Twitch](https://www.twitch.tv/iamslammer)</p> | <p align="center">Round 1</p> |
+| <p align="center">AitchKay</p> | <p align="center">[Twitch](https://www.twitch.tv/aitchkay720)</p> | <p align="center">Round 2</p> |
+| <p align="center">AmazingSpam</p> | <p align="center">[Twitch](https://www.twitch.tv/amazingspam)</p> | <p align="center">Round 2</p> |
+| <p align="center">Bernas52</p> | <p align="center">[Twitch](https://www.twitch.tv/bernas52)</p> | <p align="center">Round 2</p> |
+| <p align="center">BonusDay</p> | <p align="center">[Twitch](https://www.twitch.tv/bonusday)</p> | <p align="center">Round 2</p> |
+| <p align="center">DaddyoftheCorn</p> | <p align="center">[Twitch](https://www.twitch.tv/daddyofthecorn)</p> | <p align="center">Eliminated - Round 1</p> |
+| <p align="center">DGCacklez</p> | <p align="center">[Twitch](https://www.twitch.tv/)</p> | <p align="center">Eliminated - Round 1</p> |
+| <p align="center">Finnifinn747</p> | <p align="center">[Twitch](https://www.twitch.tv/finnifinn747)</p> | <p align="center">Eliminated - Round 1</p> |
+| <p align="center">IdleCrisp</p> | <p align="center">[Twitch](https://www.twitch.tv/idlecrisp)</p> | <p align="center">Eliminated - Round 1</p> |
+| <p align="center">Just_Dkamp</p> | <p align="center">[Twitch](https://www.twitch.tv/just_dkamp)</p> | <p align="center">Round 2</p> |
+| <p align="center">Mason</p> | <p align="center">[Twitch](https://www.twitch.tv/mason_smw)</p> | <p align="center">Round 2</p> |
+| <p align="center">NekoMage</p> | <p align="center">[Twitch](https://www.twitch.tv/nekomage_hs)</p> | <p align="center">Eliminated - Round 1</p> |
+| <p align="center">Pixelmaster</p> | <p align="center">[Twitch](https://www.twitch.tv/pixelmaster113)</p> | <p align="center">Eliminated - Round 1</p> |
+| <p align="center">Porofessor</p> | <p align="center">[Twitch](https://www.twitch.tv/theporofessor)</p> | <p align="center">Eliminated - Round 1</p> |
+| <p align="center">Potatergang</p> | <p align="center">[Twitch](https://www.twitch.tv/)</p> | <p align="center">Eliminated - Round 1</p> |
+| <p align="center">QP_Marcel</p> | <p align="center">[Twitch](https://www.twitch.tv/qp_marcel)</p> | <p align="center">Round 2</p> |
+| <p align="center">Reilnur</p> | <p align="center">[Twitch](https://www.twitch.tv/reilnur)</p> | <p align="center">Round 2</p> |
+| <p align="center">roflmaogamers1</p> | <p align="center">[Twitch](https://www.twitch.tv/roflmaogamers1)</p> | <p align="center">Eliminated - Round 1</p> |
+| <p align="center">Roxee</p> | <p align="center">[Twitch](https://www.twitch.tv/roxee94)</p> | <p align="center">Eliminated - Round 1</p> |
+| <p align="center">Slammer</p> | <p align="center">[Twitch](https://www.twitch.tv/iamslammer)</p> | <p align="center">Eliminated - Round 1</p> |
 | <p align="center">UceyChimchar</p> | <p align="center">[Twitch](https://www.twitch.tv/uceychimchar)</p> | <p align="center">Round 1</p> |
-| <p align="center">UnrealPapa</p> | <p align="center">[Twitch](https://www.twitch.tv/unrealpapa)</p> | <p align="center">Round 1</p> |
-| <p align="center">Yukisaka</p> | <p align="center">[Twitch](https://www.twitch.tv/)</p> | <p align="center">Round 1</p> |
-| <p align="center">ZogaOak</p> | <p align="center">[Twitch](https://www.twitch.tv/zogaoak)</p> | <p align="center">Round 1</p> |
-| <p align="center">ZRBPlays</p> | <p align="center">[Twitch](https://www.twitch.tv/zrbplaystv)</p> | <p align="center">Round 1</p> |
+| <p align="center">UnrealPapa</p> | <p align="center">[Twitch](https://www.twitch.tv/unrealpapa)</p> | <p align="center">Round 2</p> |
+| <p align="center">Yukisaka</p> | <p align="center">[Twitch](https://www.twitch.tv/)</p> | <p align="center">Round 2</p> |
+| <p align="center">ZogaOak</p> | <p align="center">[Twitch](https://www.twitch.tv/zogaoak)</p> | <p align="center">Round 2</p> |
+| <p align="center">ZRBPlays</p> | <p align="center">[Twitch](https://www.twitch.tv/zrbplaystv)</p> | <p align="center">Eliminated - Round 1</p> |
 
 
 ---
@@ -157,9 +157,9 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 2 | <p align="center">UceyChimchar</p> | <p align="center"> Won in 55 seeds (refunded 10 from Pikachu bug) </p> | <p align="center"> 5 Seeds </p> |
 | 3 | <p align="center">ZogaOak</p> | <p align="center"> Champ (3/6 Pokemon) </p> | <p align="center"> 4 Seeds </p> |
 | 4 | <p align="center">QP_Marcel</p> | <p align="center"> Lance (2/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
-| 5 | <p align="center">UnrealPapa</p> | <p align="center"> Victory Road (11/12 Trainers) </p> | <p align="center"> 20 Seeds </p> |
-| 6 | <p align="center">BonusDay</p> | <p align="center"> Rock Tunnel (12/19 Trainers) </p> | <p align="center"> 26 Seeds </p> |
-| 7 | <p align="center">AmazingSpam</p> | <p align="center"> Route 9 & 10 (Ongoing) </p> | <p align="center"> 37 Seeds </p> |
+| 5 | <p align="center">AmazingSpam</p> | <p align="center"> Bruno (2/6 Pokemon) </p> | <p align="center"> 19 Seeds </p> |
+| 6 | <p align="center">UnrealPapa</p> | <p align="center"> Victory Road (11/12 Trainers) </p> | <p align="center"> 20 Seeds </p> |
+| 7 | <p align="center">BonusDay</p> | <p align="center"> Rock Tunnel (12/19 Trainers) </p> | <p align="center"> 26 Seeds </p> |
 | 8 | <p align="center">AitchKay</p> | <p align="center"> Route 9 & 10 (2/10 Trainers) </p> | <p align="center"> 0 Seeds </p> |
 | 9 | <p align="center">Just_Dkamp</p> | <p align="center"> Lt. Surge (5/6 Pokemon) </p> | <p align="center"> 30 Seeds </p> |
 | 10 | <p align="center">Yukisaka</p> | <p align="center"> Lt Surge (2/4 Trainers) </p> | <p align="center"> 0 Seeds </p> |
