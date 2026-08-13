@@ -140,7 +140,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | <p align="center">roflmaogamers1</p> | <p align="center">[Twitch](https://www.twitch.tv/roflmaogamers1)</p> | <p align="center">Eliminated - Round 1</p> |
 | <p align="center">Roxee</p> | <p align="center">[Twitch](https://www.twitch.tv/roxee94)</p> | <p align="center">Eliminated - Round 1</p> |
 | <p align="center">Slammer</p> | <p align="center">[Twitch](https://www.twitch.tv/iamslammer)</p> | <p align="center">Eliminated - Round 1</p> |
-| <p align="center">UceyChimchar</p> | <p align="center">[Twitch](https://www.twitch.tv/uceychimchar)</p> | <p align="center">Round 1</p> |
+| <p align="center">UceyChimchar</p> | <p align="center">[Twitch](https://www.twitch.tv/uceychimchar)</p> | <p align="center">Round 2</p> |
 | <p align="center">UnrealPapa</p> | <p align="center">[Twitch](https://www.twitch.tv/unrealpapa)</p> | <p align="center">Round 2</p> |
 | <p align="center">Yukisaka</p> | <p align="center">[Twitch](https://www.twitch.tv/)</p> | <p align="center">Round 2</p> |
 | <p align="center">ZogaOak</p> | <p align="center">[Twitch](https://www.twitch.tv/zogaoak)</p> | <p align="center">Round 2</p> |
