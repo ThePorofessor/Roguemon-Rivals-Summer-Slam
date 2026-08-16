@@ -159,6 +159,9 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 4 | <p align="center">ZogaOak</p> | <p align="center"> Route 6 & 11 (Ongoing) </p> | <p align="center"> 49 Seeds </p> |
 | 5 | <p align="center">UceyChimchar</p> | <p align="center"> Rival 3 (3/4 Pokemon) </p> | <p align="center"> 28 Seeds </p> |
 | 6 | <p align="center">AmazingSpam</p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> 16 Seeds </p> |
+| | | | |
+| <p align="center">![Round](Resources/round.PNG) </p> | <p align="center">![Two](Resources/two.PNG) </p>| <p align="center">![Elimination](Resources/elimination.PNG) </p> |<p align="center">![Threshold](Resources/threshold.PNG) </p>
+| | | | |
 | 7 | <p align="center">BonusDay</p> | <p align="center"> Brock (0/6 Pokemon) </p> | <p align="center"> 40 Seeds </p> |
 | 8 | <p align="center">Just_Dkamp</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | 8 | <p align="center">Mason</p> | <p align="center">Lab </p> | <p align="center"> 50 Seeds </p> |
