@@ -162,11 +162,11 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | | | | |
 | <p align="center">![Round](Resources/round.PNG) </p> | <p align="center">![Two](Resources/two.PNG) </p>| <p align="center">![Elimination](Resources/elimination.PNG) </p> |<p align="center">![Threshold](Resources/threshold.PNG) </p>
 | | | | |
-| 7 | <p align="center">Mason</p> | <p align="center">Route 24 and 25 (12/16 Trainers) </p> | <p align="center"> 0 Seeds </p> |
-| 8 | <p align="center">BonusDay</p> | <p align="center"> Rival 3 (Ongoing) </p> | <p align="center"> 25 Seeds </p> |
-| 9 | <p align="center">AmazingSpam</p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
-| 10 | <p align="center">Just_Dkamp</p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> 32 Seeds </p> |
-| 11 | <p align="center">Potatergang</p> | <p align="center"> Brock (1/6 Pokemon) </p> | <p align="center"> 12 Seeds </p> |
+| 7 | <p align="center">Just_Dkamp</p> | <p align="center"> Surge (1/4 Trainers) </p> | <p align="center"> 15 Seeds </p> |
+| 8 | <p align="center">BonusDay</p> | <p align="center"> Route 6 and 11 (6/17 Trainers) </p> | <p align="center"> 5 Seeds </p> |
+| 9 | <p align="center">Mason</p> | <p align="center">Route 24 and 25 (12/16 Trainers) </p> | <p align="center"> 0 Seeds </p> |
+| 10 | <p align="center">AmazingSpam</p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
+| 11 | <p align="center">Potatergang</p> | <p align="center"> Brock (1/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
 | 11 | <p align="center">UnrealPapa</p> | <p align="center"> Brock (1/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
 | | | | |
 | <p align="center">![Round](Resources/round.PNG) </p> | <p align="center">![One](Resources/one.PNG) </p>| <p align="center">![Elimination](Resources/elimination.PNG) </p> |<p align="center">![Threshold](Resources/threshold.PNG) </p>
