@@ -153,21 +153,21 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 | Rank | Player | Personal Best (Tiebreakers) | Available Seeds?
 |:---:|---|---|---|
-| 1 | <p align="center">Yukisaka</p> | <p align="center"> Lorelei (5/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
-| 2 | <p align="center">UceyChimchar</p> | <p align="center"> Gio (4/9 Trainers) </p> | <p align="center"> 0 Seeds </p> |
-| 3 | <p align="center">ZogaOak</p> | <p align="center"> Silph Co (7/32 Trainers) </p> | <p align="center"> 0 Seeds </p> |
-| 4 | <p align="center">QP_Marcel</p> | <p align="center"> Erika (0/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
-| 5 | <p align="center">Reilnur</p> | <p align="center"> Route 8 (0/12 Trainers) </p> | <p align="center"> 0 Seeds </p> |
-| 6 | <p align="center">AitchKay</p> | <p align="center"> Rock Tunnel (3/19 Trainers) </p> | <p align="center"> 0 Seeds </p> |
+| 1 | <p align="center">Yukisaka</p> | <p align="center"> Victory Road (11/12 Trainers) </p> | <p align="center"> 49 Seeds </p> |
+| 2 | <p align="center">UceyChimchar</p> | <p align="center"> Erika (0/6 Pokemon) </p> | <p align="center"> 28 Seeds </p> |
+| 3 | <p align="center">Reilnur</p> | <p align="center"> Route 9 (0/10 Trainers) </p> | <p align="center"> 25 Seeds </p> |
+| 4 | <p align="center">QP_Marcel</p> | <p align="center"> Rival 3 (1/4 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
+| 5 | <p align="center">AitchKay</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
+| 6 | <p align="center">ZogaOak</p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | | | | |
 | <p align="center">![Round](Resources/round.PNG) </p> | <p align="center">![Two](Resources/two.PNG) </p>| <p align="center">![Elimination](Resources/elimination.PNG) </p> |<p align="center">![Threshold](Resources/threshold.PNG) </p>
 | | | | |
-| 7 | <p align="center">Just_Dkamp</p> | <p align="center"> Surge (1/4 Trainers) </p> | <p align="center"> 15 Seeds </p> |
-| 8 | <p align="center">BonusDay</p> | <p align="center"> Route 6 and 11 (6/17 Trainers) </p> | <p align="center"> 5 Seeds </p> |
-| 9 | <p align="center">Mason</p> | <p align="center">Route 24 and 25 (12/16 Trainers) </p> | <p align="center"> 0 Seeds </p> |
-| 10 | <p align="center">AmazingSpam</p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
-| 11 | <p align="center">Potatergang</p> | <p align="center"> Brock (1/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
-| 11 | <p align="center">UnrealPapa</p> | <p align="center"> Brock (1/6 Pokemon) </p> | <p align="center"> 0 Seeds </p> |
+| 7 | <p align="center">Just_Dkamp</p> | <p align="center"> Eliminated Round 2 </p> | <p align="center"> --------------- </p> |
+| 8 | <p align="center">BonusDay</p> | <p align="center"> Eliminated Round 2 </p> | <p align="center"> --------------- </p> |
+| 9 | <p align="center">Mason</p> | <p align="center"> Eliminated Round 2 </p> | <p align="center"> --------------- </p> |
+| 10 | <p align="center">AmazingSpam</p> | <p align="center"> Eliminated Round 2 </p> | <p align="center"> --------------- </p> |
+| 11 | <p align="center">Potatergang</p> | <p align="center"> Eliminated Round 2 </p> | <p align="center"> --------------- </p> |
+| 11 | <p align="center">UnrealPapa</p> | <p align="center"> Eliminated Round 2 </p> | <p align="center"> --------------- </p> |
 | | | | |
 | <p align="center">![Round](Resources/round.PNG) </p> | <p align="center">![One](Resources/one.PNG) </p>| <p align="center">![Elimination](Resources/elimination.PNG) </p> |<p align="center">![Threshold](Resources/threshold.PNG) </p>
 | | | | |
